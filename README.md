@@ -1,9 +1,12 @@
-* Introduction
+# Introduction
 
-Ce répertoire est une version simple de Tetris codé en c++ avec les libraires Eigen et SFML fait en projet personnel. Vous pouvez voir dans l'image ci-dessous le rendu final.
+Ce répertoire est une version simple de Tetris codé en c++ avec les libraires Eigen et SFML fait en projet personnel.
+
 ![Tetris](img/tetris_demo.png?raw=true "Démo")
 
-* Installation
+Vous pouvez voir dans l'image le rendu final.
+
+# Installation
 
 Le code utilise les librairies Eigen et SFML qui sont donc necessaires pour installer ce logiciel. Pour ce faire, suivez les instructions fournit sur les sites de ses libraires : 
 [Eigen](http://eigen.tuxfamily.org/index.php?title=Main_Page), [SFML](https://www.sfml-dev.org/).

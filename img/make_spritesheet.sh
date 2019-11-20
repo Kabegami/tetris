@@ -1,0 +1,1 @@
+convert gray.png cyan.png yellow.png purple.png orange.png blue.png red.png  green.png +append spritesheet.png
